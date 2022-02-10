@@ -1,4 +1,4 @@
-# Simulation Dode Discription
+# Simulation Code Discription
 
 
 For our simulations we simulate a short bus route with 6 bus stops.
